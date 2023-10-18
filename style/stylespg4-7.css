@@ -1,0 +1,29 @@
+.backgroundColor{
+    background-color:bisque;
+}
+
+.removeDec{
+    text-decoration:none;
+    color: grey;
+}
+
+.flexMe{
+display: flex;
+justify-content: space-evenly;
+}
+
+.promptBorder{
+    border: 3px solid;
+    padding: 2%;
+    background-color: blanchedalmond;
+    margin: 2%;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.buttonSize{
+    width: 400px;
+    height: 50px;
+}
