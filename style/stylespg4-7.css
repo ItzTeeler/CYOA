@@ -14,6 +14,7 @@ justify-content: space-evenly;
 
 .promptBorder{
     border: 3px solid;
+    border-radius: 10px;
     padding: 2%;
     background-color: blanchedalmond;
     margin: 2%;
@@ -26,4 +27,49 @@ justify-content: space-evenly;
 .buttonSize{
     width: 400px;
     height: 50px;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+.buttonSize:hover{
+    background-color: dodgerblue;
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+#happyKid{
+    width: 400px;
+}
+#homeHungry{
+    width: 400px;
+    height: 240px;
+}
+#drake{
+    width: 400px;
+    height: 240px;
+}
+#soulja{
+    width: 400px;
+    height: 240px;
+}
+
+#guyDriving{
+    width: 100%;
+    margin-top: 3%;
+    height: 525px;
+}
+#guyLlama{
+    width: 100%;
+    margin-top: 3%;
+    height: 500px;
+}
+div img{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: wrap;
 }
