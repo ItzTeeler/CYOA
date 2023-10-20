@@ -6,7 +6,6 @@
     text-decoration:none;
     color: grey;
 }
-
 .flexMe{
 display: flex;
 justify-content: space-evenly;
@@ -22,6 +21,7 @@ justify-content: space-evenly;
 
 .centerText{
     text-align: center;
+    font-weight: bold;
 }
 
 .buttonSize{
