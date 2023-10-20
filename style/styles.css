@@ -38,8 +38,17 @@
 }
 
 .buttonIndex {
-   text-align: center;
+   width: 400px;
+   height: 50px;
+   border-radius: 10px;
+   border: none;
+   font-size: 15px;
+   font-weight: bold;
 
+}
+
+.playBtn{
+   text-align: center;
 }
 
 .h3Text {
